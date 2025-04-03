@@ -10,5 +10,6 @@ PyTorch
 Markdown
 
 ## Profile
+<Profile picture>
 
 > Start early, start often :).
