@@ -11,3 +11,5 @@ Markdown
 
 ## Profile
 <picture of me>
+
+> Start early, start often :).
