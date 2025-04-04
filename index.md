@@ -38,7 +38,7 @@ for i in range(60000):
 ```
 
 *Work for this assignment*  
-![Git Part 1](https://github.com/efang5/CSE-110/blob/main/IMG_4748.jpg)
+![Git Part 1](https://github.com/efang5/CSE-110/blob/main/screenshots/Git_part_1.pdf)
 [profile again :)](IMG_4748.jpg)
 
 - [ ] figure out how to do a relative link to the files in screenshots
