@@ -13,15 +13,15 @@ Favorite UCSD staff saying.
 > Start early, start often :).
 
 **Languages**  
--Java  
--Python  
--Cpp
+- Java  
+- Python  
+- Cpp
 
 **Other Skills**  
--PyTorch  
--Markdown  
--Algorithms  
--Data Structures
+- PyTorch  
+- Markdown  
+- Algorithms  
+- Data Structures
 
 **Example**
 *PyTorch Code*
