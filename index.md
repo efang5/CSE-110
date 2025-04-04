@@ -1,5 +1,7 @@
 # Ethan Fang's User Page
 
+### Table of Contents
+
 **Languages**  
 Java  
 Python  
