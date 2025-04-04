@@ -38,4 +38,4 @@ for i in range(60000):
 ```
 
 *Work for this assignment*
-[](screenschots/)
+[Git Part 1](screenschots/git-part-1.pdf)
