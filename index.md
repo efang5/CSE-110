@@ -1,8 +1,8 @@
 # Ethan Fang's User Page
 
-**Languages**
-Java
-Python
+**Languages**  
+Java  
+Python  
 Cpp
 
 **Other Skills**
