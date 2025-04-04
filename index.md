@@ -39,3 +39,5 @@ for i in range(60000):
 
 *Work for this assignment*  
 [profile again :)](IMG_4748.jpg)
+
+- [ ] figure out how to do a relative link to the files in screenshots
