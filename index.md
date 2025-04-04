@@ -10,6 +10,6 @@ PyTorch
 Markdown
 
 ## Profile
-<Profile picture>
+<../IMG_4748.jpg>
 
 > Start early, start often :).
