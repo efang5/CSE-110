@@ -5,8 +5,8 @@ Java
 Python  
 Cpp
 
-**Other Skills**
-PyTorch
+**Other Skills**  
+PyTorch  
 Markdown
 
 ## Profile
