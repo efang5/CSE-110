@@ -38,4 +38,4 @@ for i in range(60000):
 ```
 
 *Work for this assignment*  
-[Git Part 1](screenshots/git_part_1.pdf)
+[profile again :)](IMG_4748.jpg)
