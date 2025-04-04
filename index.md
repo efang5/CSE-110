@@ -10,6 +10,6 @@ PyTorch
 Markdown
 
 ## Profile
-<../IMG_4748.jpg>
+<(https://github.com/efang5/CSE-110/blob/main/IMG_4748.jpg)>
 
 > Start early, start often :).
